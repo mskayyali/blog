@@ -2,12 +2,13 @@
 layout: page
 title: About
 sidebar_link: true
+published: true
 ---
+Thanks for stopping by! I used to think of myself as a news-obsessed technologist and product manager but things changed fast and the *curse* of being interested in everything is making self introductions really hard! So far, I spent most of my professional life in media, startup consultancy, and content production. Currently exploring the realms of financial software design.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+I like, when the time permits, to write, translate, podcast, and design perfumes!
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Pround husband and father,living and wokring in London 🇬🇧
+
+
+“The dilemma is this. In the modern world knowledge has been growing so fast and so enormously, in almost every field, that the probabilities are immensely against anybody, no matter how innately clever, being able to make a contribution in any one field unless he devotes all his time to it for years. If he tries to be the Rounded Universal Man, like Leonardo da Vinci, or to take all knowledge for his province, like Francis Bacon, he is most likely to become a mere dilettante and dabbler. But if he becomes too specialized, he is apt to become narrow and lopsided, ignorant on every subject but his own, and perhaps dull and sterile even on that because he lacks perspective and vision and has missed the cross-fertilization of ideas that can come from knowing something of other subjects.”,  [Henry Hazlitt](https://en.wikipedia.org/wiki/Henry_Hazlitt) 
