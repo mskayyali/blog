@@ -1,10 +1,9 @@
-<nav id="sidebar-icon-links">
- <a id="linkedin-link"
-     class="icon" title="LinkedIn" aria-label="LinkedIn"
-     href="http://linkedin.com/in/mskayyali">
+ <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/linkedin.svg %}
   </a>
-
+ 
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
