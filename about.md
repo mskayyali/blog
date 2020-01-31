@@ -11,7 +11,9 @@ I like, when the time permits, to write, translate, podcast, and design perfumes
 Pround husband and father,living and wokring in London 🇬🇧
 
 [Twitter](http://twitter.com/mskayyali)
+
 [Email](mailto:mskayyali@me.com)
+
 [LinkedIn](http://linkedin.com/in/mskayyali)
 
 
